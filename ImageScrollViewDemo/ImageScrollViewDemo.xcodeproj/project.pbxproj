@@ -156,10 +156,9 @@
 			};
 			buildConfigurationList = 61F3137A1C8A04710096BF64 /* Build configuration list for PBXProject "ImageScrollViewDemo" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
-				English,
 				en,
 				Base,
 			);
